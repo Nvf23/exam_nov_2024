@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">exam_mobile_interfaces</string>
+    <string name="title">Posta de sol</string>
+    <string name="color1">Red</string>
+    <string name="color2">Green</string>
+    <string name="color3">Blue</string>
+    <string name="textSizeLabel">Text size: </string>
+    // This is use at the start, before you use the seekbar.
+    <string name="textSizeLabel2">Text size: 16sp</string>
+    <string name="textHint">Type something</string>
+    <string name="textSizeButton">Update </string>
+    <string name="firstText">First text, type something to change.</string>
+</resources>
